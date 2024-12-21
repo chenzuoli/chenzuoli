@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一名全栈工程师，现工作于上海，喜欢代码，欢迎交流。
+一名全栈工程师，现工作于上海，喜欢代码、程序员创业、投资理财，欢迎交流。
 
 ## 关于我
 - 🔭 I’m currently working on [乐知付]
@@ -41,4 +41,3 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:END -->
 
-Thank you for visiting my profile!
