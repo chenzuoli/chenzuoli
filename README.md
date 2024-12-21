@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzuoli&layout=compact&theme=radical)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
-
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [csdn](https://blog.csdn.net/chenzuoli/)
