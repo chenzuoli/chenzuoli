@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [csdn](https://blog.csdn.net/chenzuoli/)
 - [cnblogs](https://www.cnblogs.com/chenzuoli)
-- http://lezhifu.cc
+- 目前得创业项目：http://lezhifu.cc 旨在帮助资源分享变现，让知识付费更简单，只要你有网络资源，视频、音频、文字、电子书、pdf、文件、课程、软件分享，通过乐知付可将其变现，欢迎体验。
 @chenzuoli
 
 <!-- BLOG-POST-LIST:END -->
